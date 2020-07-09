@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>FlightControlWeb</title>
+    <link rel="stylesheet" href="StyleSheet3.css" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+
+</head>
+<body>
+    <h1> My Google Map</h1>
+    <div class="row" , id="container">
+        <div id="map" class="col-lg-8">
+
+        </div>
+        <div id="MyFlight" class="col-lg-3" ondrop="drop(event)" ondragover="allowDrop(event)" >
+            <table class="table" id="tableOfMyFlight">
+                <thead>
+                    <tr>
+                        <th scope="col">id</th>
+                        <th scope="col">company name</th>
+                        <th scope="col">delete</th>
+                    </tr>
+                </thead>
+                <tbody id="listOfMyFlight">
+                </tbody>
+            </table>
+
+           <img id="dragAndDrop" src="upload-files-drag-and-drop.png" />
+        </div>
+    </div>
+    <div class="clearfix visible-xs"></div>
+    <div class="row" ,id="downContainer">
+        <div id="Flights_Details" class="col-lg-8">
+            <table class="table" id="tableOfFlight_Details" >
+                <thead>
+                    <tr id="trTableOfFlight_Details">
+                        <th scope="col">company name</th>
+                        <th scope="col">passengers</th>
+                        <th scope="col">time of flight</th>
+                    </tr>
+                </thead>
+                <tbody id="textBoxFlight_Details">
+                    <tr id="trFlightPlan">
+                        <td id="tdCompany_name">
+                        </td>
+                        <td id="tdpassengers">
+                        </td>
+                        <td id="tdTImeOfFlight">
+                        </td>
+
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div id="ExternalFlights" class="col-lg-3">
+            <table class="table" id="tableOfExternalFlight">
+                <thead>
+                    <tr>
+                        <th scope="col">id</th>
+                        <th scope="col">company name</th>
+                    </tr>
+                </thead>
+                <tbody id="listOfExternalFlight">
+                    
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script src="JavaScript1.js"></script>
+   
+    <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBI4750eIi-j-hkma8bryF4KRjTclS5-JY&callback=initMap"
+            async defer></script>
+</body>
+</html>

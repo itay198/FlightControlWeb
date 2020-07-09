@@ -1,0 +1,17 @@
+{
+	"passengers": 216,
+	"company_name": "SwissAir",
+	"initial_location": {
+		"longitude": 33.244,
+		"latitude": 31.12,
+		"date_time": "2020-05-07T13:23:0.0Z"
+	},
+	"segments": [
+		{
+			"longitude": 33.234,
+			"latitude": 31.18,
+			"timespan_seconds": 650000
+		}
+		
+	]
+}

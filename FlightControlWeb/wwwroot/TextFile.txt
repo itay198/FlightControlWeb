@@ -1,0 +1,6 @@
+﻿#Flights_Details {
+    background-color: azure;
+    width: 60%;
+    float: left;
+    height: 250px;
+}

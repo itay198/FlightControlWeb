@@ -1,0 +1,83 @@
+﻿body {
+}
+
+#upload-drop-zone.drop {
+    color: #222;
+    border-color: #222;
+}
+#upload-drop-zone {
+    color: #ccc;
+    border-style: dashed;
+    border-color: #ccc;
+    line-height: 200px;
+    text-align: center
+}
+/* Set the size of the div element that contains the map */
+#map {
+    height: 350px; /* The height is 400 pixels */
+    float: left;
+    width: 60%; /* The width is the width of the web page */
+}
+
+#Flights_Details {
+    background-color: azure;
+    /*margin-right: 2%;*/
+    width: 60%;
+    height: 350px;
+    float:left;
+}
+
+#leftDown {
+    float: left;
+    width: 60%;
+    flex: 1;
+    background-color:cornflowerblue;
+}
+#rightDown {
+    float: right;
+    width: 38%;
+    flex: 1;
+    background-color: firebrick;
+}
+
+#upper {
+    height: 50%;
+    width: 100%;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+
+#MyFlight {
+    /*background-color: lightblue;*/
+    background-image: url(elal.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 40%;
+    height: 350px;
+    float: right;
+    overflow: auto;
+}
+#ExternalFlights {
+    /*background-color: greenyellow;*/
+    background-image: url(torkish.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: right;
+    /* position: relative; */
+    width: 40%;
+    overflow: auto;
+}
+
+
+
+#dragAndDrop {
+    height: 100%;
+    width: 100%;
+    display: none
+}
+

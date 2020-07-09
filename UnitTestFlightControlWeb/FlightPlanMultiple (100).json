@@ -1,0 +1,2577 @@
+[
+  {
+    "passengers": 236,
+    "company_name": "Realmo Air",
+    "initial_location": {
+      "latitude": 4,
+      "longitude": 120,
+      "date_time": "2019-04-27T19:29:26Z"
+    },
+    "segments": [
+      {
+        "longitude": 32,
+        "latitude": 62,
+        "timespan_seconds": 116
+      },
+      {
+        "longitude": 13,
+        "latitude": 7,
+        "timespan_seconds": 956
+      }
+    ]
+  },
+  {
+    "passengers": 311,
+    "company_name": "Aquoavo ",
+    "initial_location": {
+      "latitude": 76,
+      "longitude": 89,
+      "date_time": "2018-12-15T15:26:51Z"
+    },
+    "segments": [
+      {
+        "longitude": 177,
+        "latitude": 88,
+        "timespan_seconds": 567
+      },
+      {
+        "longitude": 180,
+        "latitude": 85,
+        "timespan_seconds": 420
+      }
+    ]
+  },
+  {
+    "passengers": 242,
+    "company_name": "Digigen Airlines",
+    "initial_location": {
+      "latitude": 35,
+      "longitude": 50,
+      "date_time": "2019-05-20T21:24:07Z"
+    },
+    "segments": [
+      {
+        "longitude": 48,
+        "latitude": 71,
+        "timespan_seconds": 917
+      },
+      {
+        "longitude": 150,
+        "latitude": 48,
+        "timespan_seconds": 493
+      }
+    ]
+  },
+  {
+    "passengers": 341,
+    "company_name": "Emtrak Airways",
+    "initial_location": {
+      "latitude": 34,
+      "longitude": 158,
+      "date_time": "2018-02-11T12:43:35Z"
+    },
+    "segments": [
+      {
+        "longitude": 13,
+        "latitude": 84,
+        "timespan_seconds": 303
+      },
+      {
+        "longitude": 10,
+        "latitude": 13,
+        "timespan_seconds": 490
+      },
+      {
+        "longitude": 34,
+        "latitude": 22,
+        "timespan_seconds": 675
+      },
+      {
+        "longitude": 31,
+        "latitude": 76,
+        "timespan_seconds": 309
+      }
+    ]
+  },
+  {
+    "passengers": 162,
+    "company_name": "Artworlds Fly",
+    "initial_location": {
+      "latitude": 10,
+      "longitude": 94,
+      "date_time": "2019-11-21T10:50:57Z"
+    },
+    "segments": [
+      {
+        "longitude": 62,
+        "latitude": 56,
+        "timespan_seconds": 924
+      },
+      {
+        "longitude": 180,
+        "latitude": 64,
+        "timespan_seconds": 601
+      },
+      {
+        "longitude": 177,
+        "latitude": 66,
+        "timespan_seconds": 204
+      }
+    ]
+  },
+  {
+    "passengers": 186,
+    "company_name": "Lunchpod ",
+    "initial_location": {
+      "latitude": 5,
+      "longitude": 128,
+      "date_time": "2019-06-06T15:04:38Z"
+    },
+    "segments": [
+      {
+        "longitude": 52,
+        "latitude": 87,
+        "timespan_seconds": 162
+      },
+      {
+        "longitude": 88,
+        "latitude": 63,
+        "timespan_seconds": 477
+      },
+      {
+        "longitude": 155,
+        "latitude": 83,
+        "timespan_seconds": 529
+      }
+    ]
+  },
+  {
+    "passengers": 264,
+    "company_name": "Overplex Fly",
+    "initial_location": {
+      "latitude": 84,
+      "longitude": 23,
+      "date_time": "2018-08-12T11:49:43Z"
+    },
+    "segments": [
+      {
+        "longitude": 20,
+        "latitude": 46,
+        "timespan_seconds": 278
+      },
+      {
+        "longitude": 155,
+        "latitude": 89,
+        "timespan_seconds": 113
+      },
+      {
+        "longitude": 21,
+        "latitude": 44,
+        "timespan_seconds": 562
+      }
+    ]
+  },
+  {
+    "passengers": 352,
+    "company_name": "Kiggle Air",
+    "initial_location": {
+      "latitude": 65,
+      "longitude": 52,
+      "date_time": "2019-11-14T04:56:39Z"
+    },
+    "segments": [
+      {
+        "longitude": 97,
+        "latitude": 46,
+        "timespan_seconds": 713
+      },
+      {
+        "longitude": 90,
+        "latitude": 43,
+        "timespan_seconds": 473
+      }
+    ]
+  },
+  {
+    "passengers": 364,
+    "company_name": "Zensor Airlines",
+    "initial_location": {
+      "latitude": 82,
+      "longitude": 86,
+      "date_time": "2020-03-30T16:04:03Z"
+    },
+    "segments": [
+      {
+        "longitude": 37,
+        "latitude": 71,
+        "timespan_seconds": 756
+      },
+      {
+        "longitude": 57,
+        "latitude": 70,
+        "timespan_seconds": 413
+      }
+    ]
+  },
+  {
+    "passengers": 330,
+    "company_name": "Datagen Airlines",
+    "initial_location": {
+      "latitude": 86,
+      "longitude": 21,
+      "date_time": "2019-11-21T13:43:02Z"
+    },
+    "segments": [
+      {
+        "longitude": 105,
+        "latitude": 49,
+        "timespan_seconds": 896
+      },
+      {
+        "longitude": 28,
+        "latitude": 46,
+        "timespan_seconds": 986
+      },
+      {
+        "longitude": 79,
+        "latitude": 14,
+        "timespan_seconds": 896
+      },
+      {
+        "longitude": 73,
+        "latitude": 16,
+        "timespan_seconds": 997
+      }
+    ]
+  },
+  {
+    "passengers": 255,
+    "company_name": "Quonata Fly",
+    "initial_location": {
+      "latitude": 4,
+      "longitude": 102,
+      "date_time": "2020-03-29T08:34:15Z"
+    },
+    "segments": [
+      {
+        "longitude": 165,
+        "latitude": 64,
+        "timespan_seconds": 685
+      },
+      {
+        "longitude": 84,
+        "latitude": 21,
+        "timespan_seconds": 430
+      }
+    ]
+  },
+  {
+    "passengers": 270,
+    "company_name": "Hydrocom ",
+    "initial_location": {
+      "latitude": 36,
+      "longitude": 177,
+      "date_time": "2019-11-03T23:50:03Z"
+    },
+    "segments": [
+      {
+        "longitude": 74,
+        "latitude": 58,
+        "timespan_seconds": 984
+      },
+      {
+        "longitude": 152,
+        "latitude": 59,
+        "timespan_seconds": 515
+      }
+    ]
+  },
+  {
+    "passengers": 242,
+    "company_name": "Frolix Airways",
+    "initial_location": {
+      "latitude": 88,
+      "longitude": 161,
+      "date_time": "2018-11-22T23:47:15Z"
+    },
+    "segments": [
+      {
+        "longitude": 117,
+        "latitude": 85,
+        "timespan_seconds": 299
+      },
+      {
+        "longitude": 175,
+        "latitude": 50,
+        "timespan_seconds": 765
+      }
+    ]
+  },
+  {
+    "passengers": 197,
+    "company_name": "Zaggles Airways",
+    "initial_location": {
+      "latitude": 15,
+      "longitude": 52,
+      "date_time": "2018-02-12T22:13:12Z"
+    },
+    "segments": [
+      {
+        "longitude": 150,
+        "latitude": 24,
+        "timespan_seconds": 183
+      },
+      {
+        "longitude": 101,
+        "latitude": 57,
+        "timespan_seconds": 783
+      },
+      {
+        "longitude": 40,
+        "latitude": 75,
+        "timespan_seconds": 203
+      },
+      {
+        "longitude": 10,
+        "latitude": 49,
+        "timespan_seconds": 954
+      }
+    ]
+  },
+  {
+    "passengers": 349,
+    "company_name": "Centree Air",
+    "initial_location": {
+      "latitude": 51,
+      "longitude": 51,
+      "date_time": "2019-07-02T03:51:36Z"
+    },
+    "segments": [
+      {
+        "longitude": 172,
+        "latitude": 2,
+        "timespan_seconds": 901
+      },
+      {
+        "longitude": 54,
+        "latitude": 77,
+        "timespan_seconds": 698
+      },
+      {
+        "longitude": 15,
+        "latitude": 15,
+        "timespan_seconds": 383
+      },
+      {
+        "longitude": 22,
+        "latitude": 13,
+        "timespan_seconds": 693
+      }
+    ]
+  },
+  {
+    "passengers": 181,
+    "company_name": "Kangle Fly",
+    "initial_location": {
+      "latitude": 68,
+      "longitude": 124,
+      "date_time": "2019-11-03T14:22:47Z"
+    },
+    "segments": [
+      {
+        "longitude": 29,
+        "latitude": 83,
+        "timespan_seconds": 346
+      },
+      {
+        "longitude": 37,
+        "latitude": 7,
+        "timespan_seconds": 219
+      }
+    ]
+  },
+  {
+    "passengers": 57,
+    "company_name": "Netropic Airlines",
+    "initial_location": {
+      "latitude": 41,
+      "longitude": 108,
+      "date_time": "2018-01-25T13:57:09Z"
+    },
+    "segments": [
+      {
+        "longitude": 23,
+        "latitude": 34,
+        "timespan_seconds": 588
+      },
+      {
+        "longitude": 74,
+        "latitude": 58,
+        "timespan_seconds": 810
+      }
+    ]
+  },
+  {
+    "passengers": 148,
+    "company_name": "Bristo Fly",
+    "initial_location": {
+      "latitude": 28,
+      "longitude": 15,
+      "date_time": "2019-09-29T02:06:15Z"
+    },
+    "segments": [
+      {
+        "longitude": 148,
+        "latitude": 4,
+        "timespan_seconds": 591
+      },
+      {
+        "longitude": 104,
+        "latitude": 6,
+        "timespan_seconds": 282
+      },
+      {
+        "longitude": 18,
+        "latitude": 26,
+        "timespan_seconds": 904
+      }
+    ]
+  },
+  {
+    "passengers": 62,
+    "company_name": "Prosure ",
+    "initial_location": {
+      "latitude": 11,
+      "longitude": 52,
+      "date_time": "2020-02-14T09:41:07Z"
+    },
+    "segments": [
+      {
+        "longitude": 134,
+        "latitude": 46,
+        "timespan_seconds": 298
+      },
+      {
+        "longitude": 76,
+        "latitude": 36,
+        "timespan_seconds": 966
+      },
+      {
+        "longitude": 62,
+        "latitude": 23,
+        "timespan_seconds": 349
+      },
+      {
+        "longitude": 172,
+        "latitude": 86,
+        "timespan_seconds": 241
+      }
+    ]
+  },
+  {
+    "passengers": 377,
+    "company_name": "Rockyard Air",
+    "initial_location": {
+      "latitude": 77,
+      "longitude": 71,
+      "date_time": "2018-06-24T19:30:04Z"
+    },
+    "segments": [
+      {
+        "longitude": 51,
+        "latitude": 54,
+        "timespan_seconds": 475
+      },
+      {
+        "longitude": 153,
+        "latitude": 42,
+        "timespan_seconds": 548
+      },
+      {
+        "longitude": 65,
+        "latitude": 11,
+        "timespan_seconds": 201
+      }
+    ]
+  },
+  {
+    "passengers": 387,
+    "company_name": "Asimiline ",
+    "initial_location": {
+      "latitude": 71,
+      "longitude": 63,
+      "date_time": "2019-01-27T06:28:14Z"
+    },
+    "segments": [
+      {
+        "longitude": 66,
+        "latitude": 19,
+        "timespan_seconds": 691
+      },
+      {
+        "longitude": 74,
+        "latitude": 68,
+        "timespan_seconds": 285
+      },
+      {
+        "longitude": 31,
+        "latitude": 72,
+        "timespan_seconds": 239
+      }
+    ]
+  },
+  {
+    "passengers": 391,
+    "company_name": "Oceanica Air",
+    "initial_location": {
+      "latitude": 26,
+      "longitude": 43,
+      "date_time": "2019-11-10T11:58:10Z"
+    },
+    "segments": [
+      {
+        "longitude": 180,
+        "latitude": 83,
+        "timespan_seconds": 566
+      },
+      {
+        "longitude": 176,
+        "latitude": 22,
+        "timespan_seconds": 866
+      }
+    ]
+  },
+  {
+    "passengers": 187,
+    "company_name": "Lotron ",
+    "initial_location": {
+      "latitude": 72,
+      "longitude": 66,
+      "date_time": "2018-12-11T19:30:06Z"
+    },
+    "segments": [
+      {
+        "longitude": 107,
+        "latitude": 16,
+        "timespan_seconds": 270
+      },
+      {
+        "longitude": 22,
+        "latitude": 69,
+        "timespan_seconds": 978
+      },
+      {
+        "longitude": 131,
+        "latitude": 13,
+        "timespan_seconds": 326
+      },
+      {
+        "longitude": 37,
+        "latitude": 62,
+        "timespan_seconds": 545
+      }
+    ]
+  },
+  {
+    "passengers": 205,
+    "company_name": "Bluplanet Fly",
+    "initial_location": {
+      "latitude": 31,
+      "longitude": 108,
+      "date_time": "2019-02-06T19:45:09Z"
+    },
+    "segments": [
+      {
+        "longitude": 168,
+        "latitude": 90,
+        "timespan_seconds": 934
+      },
+      {
+        "longitude": 151,
+        "latitude": 62,
+        "timespan_seconds": 239
+      }
+    ]
+  },
+  {
+    "passengers": 209,
+    "company_name": "Verbus Airways",
+    "initial_location": {
+      "latitude": 17,
+      "longitude": 29,
+      "date_time": "2018-07-09T02:05:02Z"
+    },
+    "segments": [
+      {
+        "longitude": 138,
+        "latitude": 7,
+        "timespan_seconds": 756
+      },
+      {
+        "longitude": 78,
+        "latitude": 18,
+        "timespan_seconds": 421
+      }
+    ]
+  },
+  {
+    "passengers": 91,
+    "company_name": "Neptide Airways",
+    "initial_location": {
+      "latitude": 77,
+      "longitude": 67,
+      "date_time": "2019-01-06T08:11:57Z"
+    },
+    "segments": [
+      {
+        "longitude": 99,
+        "latitude": 25,
+        "timespan_seconds": 743
+      },
+      {
+        "longitude": 36,
+        "latitude": 39,
+        "timespan_seconds": 326
+      }
+    ]
+  },
+  {
+    "passengers": 47,
+    "company_name": "Slumberia Air",
+    "initial_location": {
+      "latitude": 80,
+      "longitude": 162,
+      "date_time": "2019-05-01T06:20:56Z"
+    },
+    "segments": [
+      {
+        "longitude": 63,
+        "latitude": 90,
+        "timespan_seconds": 846
+      },
+      {
+        "longitude": 53,
+        "latitude": 67,
+        "timespan_seconds": 399
+      },
+      {
+        "longitude": 54,
+        "latitude": 58,
+        "timespan_seconds": 511
+      },
+      {
+        "longitude": 122,
+        "latitude": 12,
+        "timespan_seconds": 295
+      }
+    ]
+  },
+  {
+    "passengers": 282,
+    "company_name": "Netility Fly",
+    "initial_location": {
+      "latitude": 44,
+      "longitude": 143,
+      "date_time": "2019-11-01T05:30:18Z"
+    },
+    "segments": [
+      {
+        "longitude": 94,
+        "latitude": 67,
+        "timespan_seconds": 346
+      },
+      {
+        "longitude": 137,
+        "latitude": 0,
+        "timespan_seconds": 155
+      }
+    ]
+  },
+  {
+    "passengers": 265,
+    "company_name": "Kongle Air",
+    "initial_location": {
+      "latitude": 51,
+      "longitude": 176,
+      "date_time": "2018-10-31T22:57:19Z"
+    },
+    "segments": [
+      {
+        "longitude": 143,
+        "latitude": 58,
+        "timespan_seconds": 922
+      },
+      {
+        "longitude": 116,
+        "latitude": 38,
+        "timespan_seconds": 737
+      }
+    ]
+  },
+  {
+    "passengers": 213,
+    "company_name": "Telequiet Airways",
+    "initial_location": {
+      "latitude": 90,
+      "longitude": 20,
+      "date_time": "2019-10-11T03:19:41Z"
+    },
+    "segments": [
+      {
+        "longitude": 4,
+        "latitude": 2,
+        "timespan_seconds": 511
+      },
+      {
+        "longitude": 64,
+        "latitude": 21,
+        "timespan_seconds": 999
+      }
+    ]
+  },
+  {
+    "passengers": 331,
+    "company_name": "Quiltigen Fly",
+    "initial_location": {
+      "latitude": 52,
+      "longitude": 31,
+      "date_time": "2020-01-10T12:48:15Z"
+    },
+    "segments": [
+      {
+        "longitude": 139,
+        "latitude": 88,
+        "timespan_seconds": 290
+      },
+      {
+        "longitude": 20,
+        "latitude": 59,
+        "timespan_seconds": 590
+      },
+      {
+        "longitude": 137,
+        "latitude": 64,
+        "timespan_seconds": 848
+      },
+      {
+        "longitude": 156,
+        "latitude": 88,
+        "timespan_seconds": 585
+      }
+    ]
+  },
+  {
+    "passengers": 272,
+    "company_name": "Geeky ",
+    "initial_location": {
+      "latitude": 73,
+      "longitude": 133,
+      "date_time": "2018-10-12T02:27:57Z"
+    },
+    "segments": [
+      {
+        "longitude": 47,
+        "latitude": 57,
+        "timespan_seconds": 560
+      },
+      {
+        "longitude": 32,
+        "latitude": 81,
+        "timespan_seconds": 678
+      },
+      {
+        "longitude": 126,
+        "latitude": 31,
+        "timespan_seconds": 831
+      },
+      {
+        "longitude": 25,
+        "latitude": 25,
+        "timespan_seconds": 59
+      }
+    ]
+  },
+  {
+    "passengers": 374,
+    "company_name": "Yogasm Air",
+    "initial_location": {
+      "latitude": 43,
+      "longitude": 0,
+      "date_time": "2019-05-10T14:40:30Z"
+    },
+    "segments": [
+      {
+        "longitude": 41,
+        "latitude": 24,
+        "timespan_seconds": 862
+      },
+      {
+        "longitude": 97,
+        "latitude": 74,
+        "timespan_seconds": 303
+      },
+      {
+        "longitude": 79,
+        "latitude": 28,
+        "timespan_seconds": 263
+      },
+      {
+        "longitude": 50,
+        "latitude": 79,
+        "timespan_seconds": 917
+      }
+    ]
+  },
+  {
+    "passengers": 374,
+    "company_name": "Zytrek Airlines",
+    "initial_location": {
+      "latitude": 58,
+      "longitude": 32,
+      "date_time": "2020-04-24T07:50:03Z"
+    },
+    "segments": [
+      {
+        "longitude": 76,
+        "latitude": 45,
+        "timespan_seconds": 822
+      },
+      {
+        "longitude": 85,
+        "latitude": 59,
+        "timespan_seconds": 91
+      },
+      {
+        "longitude": 160,
+        "latitude": 42,
+        "timespan_seconds": 816
+      }
+    ]
+  },
+  {
+    "passengers": 358,
+    "company_name": "Accel ",
+    "initial_location": {
+      "latitude": 11,
+      "longitude": 106,
+      "date_time": "2019-06-26T20:04:35Z"
+    },
+    "segments": [
+      {
+        "longitude": 106,
+        "latitude": 41,
+        "timespan_seconds": 246
+      },
+      {
+        "longitude": 36,
+        "latitude": 86,
+        "timespan_seconds": 415
+      }
+    ]
+  },
+  {
+    "passengers": 210,
+    "company_name": "Bleeko Airways",
+    "initial_location": {
+      "latitude": 16,
+      "longitude": 76,
+      "date_time": "2019-10-16T05:00:41Z"
+    },
+    "segments": [
+      {
+        "longitude": 103,
+        "latitude": 56,
+        "timespan_seconds": 739
+      },
+      {
+        "longitude": 62,
+        "latitude": 89,
+        "timespan_seconds": 981
+      },
+      {
+        "longitude": 23,
+        "latitude": 87,
+        "timespan_seconds": 259
+      },
+      {
+        "longitude": 127,
+        "latitude": 26,
+        "timespan_seconds": 591
+      }
+    ]
+  },
+  {
+    "passengers": 309,
+    "company_name": "Daido ",
+    "initial_location": {
+      "latitude": 79,
+      "longitude": 160,
+      "date_time": "2020-04-05T14:26:31Z"
+    },
+    "segments": [
+      {
+        "longitude": 68,
+        "latitude": 78,
+        "timespan_seconds": 703
+      },
+      {
+        "longitude": 132,
+        "latitude": 76,
+        "timespan_seconds": 920
+      },
+      {
+        "longitude": 168,
+        "latitude": 26,
+        "timespan_seconds": 180
+      }
+    ]
+  },
+  {
+    "passengers": 236,
+    "company_name": "Marketoid Airlines",
+    "initial_location": {
+      "latitude": 7,
+      "longitude": 114,
+      "date_time": "2019-08-27T18:08:06Z"
+    },
+    "segments": [
+      {
+        "longitude": 68,
+        "latitude": 33,
+        "timespan_seconds": 538
+      },
+      {
+        "longitude": 149,
+        "latitude": 46,
+        "timespan_seconds": 919
+      },
+      {
+        "longitude": 49,
+        "latitude": 35,
+        "timespan_seconds": 662
+      }
+    ]
+  },
+  {
+    "passengers": 257,
+    "company_name": "Protodyne Air",
+    "initial_location": {
+      "latitude": 52,
+      "longitude": 70,
+      "date_time": "2018-08-25T15:03:25Z"
+    },
+    "segments": [
+      {
+        "longitude": 75,
+        "latitude": 12,
+        "timespan_seconds": 782
+      },
+      {
+        "longitude": 143,
+        "latitude": 3,
+        "timespan_seconds": 840
+      },
+      {
+        "longitude": 116,
+        "latitude": 41,
+        "timespan_seconds": 487
+      }
+    ]
+  },
+  {
+    "passengers": 240,
+    "company_name": "Sunclipse Air",
+    "initial_location": {
+      "latitude": 14,
+      "longitude": 29,
+      "date_time": "2018-08-13T09:49:04Z"
+    },
+    "segments": [
+      {
+        "longitude": 119,
+        "latitude": 41,
+        "timespan_seconds": 55
+      },
+      {
+        "longitude": 152,
+        "latitude": 68,
+        "timespan_seconds": 720
+      },
+      {
+        "longitude": 28,
+        "latitude": 3,
+        "timespan_seconds": 303
+      },
+      {
+        "longitude": 85,
+        "latitude": 42,
+        "timespan_seconds": 279
+      }
+    ]
+  },
+  {
+    "passengers": 318,
+    "company_name": "Xeronk ",
+    "initial_location": {
+      "latitude": 11,
+      "longitude": 46,
+      "date_time": "2019-10-01T12:06:36Z"
+    },
+    "segments": [
+      {
+        "longitude": 129,
+        "latitude": 40,
+        "timespan_seconds": 693
+      },
+      {
+        "longitude": 0,
+        "latitude": 84,
+        "timespan_seconds": 418
+      },
+      {
+        "longitude": 158,
+        "latitude": 75,
+        "timespan_seconds": 219
+      }
+    ]
+  },
+  {
+    "passengers": 319,
+    "company_name": "Glasstep Airlines",
+    "initial_location": {
+      "latitude": 31,
+      "longitude": 108,
+      "date_time": "2020-04-03T13:36:14Z"
+    },
+    "segments": [
+      {
+        "longitude": 153,
+        "latitude": 35,
+        "timespan_seconds": 217
+      },
+      {
+        "longitude": 80,
+        "latitude": 43,
+        "timespan_seconds": 257
+      },
+      {
+        "longitude": 133,
+        "latitude": 58,
+        "timespan_seconds": 453
+      },
+      {
+        "longitude": 20,
+        "latitude": 16,
+        "timespan_seconds": 178
+      }
+    ]
+  },
+  {
+    "passengers": 55,
+    "company_name": "Sulfax Airways",
+    "initial_location": {
+      "latitude": 44,
+      "longitude": 85,
+      "date_time": "2019-03-15T12:39:37Z"
+    },
+    "segments": [
+      {
+        "longitude": 179,
+        "latitude": 68,
+        "timespan_seconds": 665
+      },
+      {
+        "longitude": 91,
+        "latitude": 85,
+        "timespan_seconds": 397
+      },
+      {
+        "longitude": 128,
+        "latitude": 63,
+        "timespan_seconds": 832
+      },
+      {
+        "longitude": 16,
+        "latitude": 83,
+        "timespan_seconds": 913
+      }
+    ]
+  },
+  {
+    "passengers": 194,
+    "company_name": "Uncorp Airways",
+    "initial_location": {
+      "latitude": 13,
+      "longitude": 21,
+      "date_time": "2018-12-05T17:40:52Z"
+    },
+    "segments": [
+      {
+        "longitude": 166,
+        "latitude": 43,
+        "timespan_seconds": 490
+      },
+      {
+        "longitude": 43,
+        "latitude": 69,
+        "timespan_seconds": 986
+      },
+      {
+        "longitude": 73,
+        "latitude": 25,
+        "timespan_seconds": 719
+      }
+    ]
+  },
+  {
+    "passengers": 335,
+    "company_name": "Eventex Airways",
+    "initial_location": {
+      "latitude": 72,
+      "longitude": 3,
+      "date_time": "2019-06-08T23:38:50Z"
+    },
+    "segments": [
+      {
+        "longitude": 20,
+        "latitude": 4,
+        "timespan_seconds": 186
+      },
+      {
+        "longitude": 166,
+        "latitude": 82,
+        "timespan_seconds": 507
+      },
+      {
+        "longitude": 93,
+        "latitude": 1,
+        "timespan_seconds": 166
+      },
+      {
+        "longitude": 136,
+        "latitude": 38,
+        "timespan_seconds": 320
+      }
+    ]
+  },
+  {
+    "passengers": 132,
+    "company_name": "Orbin Air",
+    "initial_location": {
+      "latitude": 27,
+      "longitude": 116,
+      "date_time": "2018-04-16T18:23:59Z"
+    },
+    "segments": [
+      {
+        "longitude": 14,
+        "latitude": 9,
+        "timespan_seconds": 996
+      },
+      {
+        "longitude": 79,
+        "latitude": 54,
+        "timespan_seconds": 473
+      },
+      {
+        "longitude": 97,
+        "latitude": 24,
+        "timespan_seconds": 656
+      }
+    ]
+  },
+  {
+    "passengers": 241,
+    "company_name": "Conferia Airways",
+    "initial_location": {
+      "latitude": 40,
+      "longitude": 149,
+      "date_time": "2020-04-08T18:27:16Z"
+    },
+    "segments": [
+      {
+        "longitude": 163,
+        "latitude": 37,
+        "timespan_seconds": 142
+      },
+      {
+        "longitude": 124,
+        "latitude": 3,
+        "timespan_seconds": 252
+      },
+      {
+        "longitude": 157,
+        "latitude": 15,
+        "timespan_seconds": 956
+      },
+      {
+        "longitude": 8,
+        "latitude": 49,
+        "timespan_seconds": 983
+      }
+    ]
+  },
+  {
+    "passengers": 366,
+    "company_name": "Fiberox Fly",
+    "initial_location": {
+      "latitude": 57,
+      "longitude": 72,
+      "date_time": "2019-02-26T19:19:07Z"
+    },
+    "segments": [
+      {
+        "longitude": 68,
+        "latitude": 24,
+        "timespan_seconds": 986
+      },
+      {
+        "longitude": 2,
+        "latitude": 9,
+        "timespan_seconds": 481
+      }
+    ]
+  },
+  {
+    "passengers": 317,
+    "company_name": "Comdom ",
+    "initial_location": {
+      "latitude": 1,
+      "longitude": 153,
+      "date_time": "2019-04-05T22:17:45Z"
+    },
+    "segments": [
+      {
+        "longitude": 86,
+        "latitude": 28,
+        "timespan_seconds": 532
+      },
+      {
+        "longitude": 135,
+        "latitude": 63,
+        "timespan_seconds": 869
+      },
+      {
+        "longitude": 111,
+        "latitude": 74,
+        "timespan_seconds": 254
+      },
+      {
+        "longitude": 153,
+        "latitude": 23,
+        "timespan_seconds": 833
+      }
+    ]
+  },
+  {
+    "passengers": 257,
+    "company_name": "Miraclis ",
+    "initial_location": {
+      "latitude": 33,
+      "longitude": 60,
+      "date_time": "2018-03-31T00:48:29Z"
+    },
+    "segments": [
+      {
+        "longitude": 154,
+        "latitude": 23,
+        "timespan_seconds": 632
+      },
+      {
+        "longitude": 138,
+        "latitude": 61,
+        "timespan_seconds": 108
+      }
+    ]
+  },
+  {
+    "passengers": 242,
+    "company_name": "Repetwire Air",
+    "initial_location": {
+      "latitude": 74,
+      "longitude": 159,
+      "date_time": "2018-07-16T00:24:47Z"
+    },
+    "segments": [
+      {
+        "longitude": 77,
+        "latitude": 45,
+        "timespan_seconds": 189
+      },
+      {
+        "longitude": 172,
+        "latitude": 0,
+        "timespan_seconds": 764
+      },
+      {
+        "longitude": 4,
+        "latitude": 82,
+        "timespan_seconds": 107
+      }
+    ]
+  },
+  {
+    "passengers": 358,
+    "company_name": "Brainclip Airlines",
+    "initial_location": {
+      "latitude": 38,
+      "longitude": 53,
+      "date_time": "2018-11-03T20:40:35Z"
+    },
+    "segments": [
+      {
+        "longitude": 118,
+        "latitude": 34,
+        "timespan_seconds": 880
+      },
+      {
+        "longitude": 174,
+        "latitude": 5,
+        "timespan_seconds": 888
+      },
+      {
+        "longitude": 111,
+        "latitude": 25,
+        "timespan_seconds": 599
+      }
+    ]
+  },
+  {
+    "passengers": 268,
+    "company_name": "Ziggles Airlines",
+    "initial_location": {
+      "latitude": 4,
+      "longitude": 108,
+      "date_time": "2019-06-20T04:25:59Z"
+    },
+    "segments": [
+      {
+        "longitude": 68,
+        "latitude": 49,
+        "timespan_seconds": 491
+      },
+      {
+        "longitude": 0,
+        "latitude": 13,
+        "timespan_seconds": 762
+      },
+      {
+        "longitude": 92,
+        "latitude": 23,
+        "timespan_seconds": 555
+      }
+    ]
+  },
+  {
+    "passengers": 98,
+    "company_name": "Bolax Fly",
+    "initial_location": {
+      "latitude": 74,
+      "longitude": 17,
+      "date_time": "2019-03-01T18:32:47Z"
+    },
+    "segments": [
+      {
+        "longitude": 54,
+        "latitude": 18,
+        "timespan_seconds": 643
+      },
+      {
+        "longitude": 70,
+        "latitude": 73,
+        "timespan_seconds": 346
+      }
+    ]
+  },
+  {
+    "passengers": 346,
+    "company_name": "Viagrand ",
+    "initial_location": {
+      "latitude": 47,
+      "longitude": 50,
+      "date_time": "2018-02-23T13:27:33Z"
+    },
+    "segments": [
+      {
+        "longitude": 45,
+        "latitude": 10,
+        "timespan_seconds": 124
+      },
+      {
+        "longitude": 43,
+        "latitude": 72,
+        "timespan_seconds": 663
+      }
+    ]
+  },
+  {
+    "passengers": 168,
+    "company_name": "Telpod Airlines",
+    "initial_location": {
+      "latitude": 85,
+      "longitude": 117,
+      "date_time": "2018-04-22T17:20:23Z"
+    },
+    "segments": [
+      {
+        "longitude": 166,
+        "latitude": 7,
+        "timespan_seconds": 157
+      },
+      {
+        "longitude": 123,
+        "latitude": 59,
+        "timespan_seconds": 755
+      },
+      {
+        "longitude": 152,
+        "latitude": 44,
+        "timespan_seconds": 794
+      }
+    ]
+  },
+  {
+    "passengers": 246,
+    "company_name": "Corepan Fly",
+    "initial_location": {
+      "latitude": 60,
+      "longitude": 13,
+      "date_time": "2019-01-13T18:08:37Z"
+    },
+    "segments": [
+      {
+        "longitude": 59,
+        "latitude": 53,
+        "timespan_seconds": 762
+      },
+      {
+        "longitude": 92,
+        "latitude": 29,
+        "timespan_seconds": 480
+      },
+      {
+        "longitude": 11,
+        "latitude": 46,
+        "timespan_seconds": 157
+      }
+    ]
+  },
+  {
+    "passengers": 212,
+    "company_name": "Utarian Airlines",
+    "initial_location": {
+      "latitude": 32,
+      "longitude": 75,
+      "date_time": "2019-08-06T06:15:06Z"
+    },
+    "segments": [
+      {
+        "longitude": 156,
+        "latitude": 20,
+        "timespan_seconds": 352
+      },
+      {
+        "longitude": 165,
+        "latitude": 52,
+        "timespan_seconds": 913
+      }
+    ]
+  },
+  {
+    "passengers": 195,
+    "company_name": "Freakin Airlines",
+    "initial_location": {
+      "latitude": 10,
+      "longitude": 180,
+      "date_time": "2019-06-11T05:59:38Z"
+    },
+    "segments": [
+      {
+        "longitude": 47,
+        "latitude": 89,
+        "timespan_seconds": 739
+      },
+      {
+        "longitude": 73,
+        "latitude": 68,
+        "timespan_seconds": 385
+      }
+    ]
+  },
+  {
+    "passengers": 142,
+    "company_name": "Viasia Airways",
+    "initial_location": {
+      "latitude": 79,
+      "longitude": 67,
+      "date_time": "2018-09-26T22:46:21Z"
+    },
+    "segments": [
+      {
+        "longitude": 58,
+        "latitude": 47,
+        "timespan_seconds": 551
+      },
+      {
+        "longitude": 11,
+        "latitude": 41,
+        "timespan_seconds": 739
+      },
+      {
+        "longitude": 54,
+        "latitude": 3,
+        "timespan_seconds": 682
+      },
+      {
+        "longitude": 64,
+        "latitude": 75,
+        "timespan_seconds": 735
+      }
+    ]
+  },
+  {
+    "passengers": 270,
+    "company_name": "Zensure Airways",
+    "initial_location": {
+      "latitude": 90,
+      "longitude": 165,
+      "date_time": "2019-02-06T14:22:48Z"
+    },
+    "segments": [
+      {
+        "longitude": 73,
+        "latitude": 31,
+        "timespan_seconds": 540
+      },
+      {
+        "longitude": 1,
+        "latitude": 70,
+        "timespan_seconds": 488
+      },
+      {
+        "longitude": 57,
+        "latitude": 18,
+        "timespan_seconds": 814
+      },
+      {
+        "longitude": 91,
+        "latitude": 9,
+        "timespan_seconds": 972
+      }
+    ]
+  },
+  {
+    "passengers": 82,
+    "company_name": "Sonique Air",
+    "initial_location": {
+      "latitude": 47,
+      "longitude": 35,
+      "date_time": "2018-03-10T11:26:04Z"
+    },
+    "segments": [
+      {
+        "longitude": 27,
+        "latitude": 9,
+        "timespan_seconds": 328
+      },
+      {
+        "longitude": 132,
+        "latitude": 34,
+        "timespan_seconds": 642
+      }
+    ]
+  },
+  {
+    "passengers": 300,
+    "company_name": "Straloy Airways",
+    "initial_location": {
+      "latitude": 54,
+      "longitude": 117,
+      "date_time": "2018-06-25T17:26:39Z"
+    },
+    "segments": [
+      {
+        "longitude": 68,
+        "latitude": 50,
+        "timespan_seconds": 831
+      },
+      {
+        "longitude": 115,
+        "latitude": 89,
+        "timespan_seconds": 954
+      }
+    ]
+  },
+  {
+    "passengers": 322,
+    "company_name": "Amril Fly",
+    "initial_location": {
+      "latitude": 4,
+      "longitude": 128,
+      "date_time": "2018-06-04T08:29:49Z"
+    },
+    "segments": [
+      {
+        "longitude": 17,
+        "latitude": 50,
+        "timespan_seconds": 370
+      },
+      {
+        "longitude": 94,
+        "latitude": 87,
+        "timespan_seconds": 857
+      },
+      {
+        "longitude": 164,
+        "latitude": 49,
+        "timespan_seconds": 565
+      },
+      {
+        "longitude": 26,
+        "latitude": 44,
+        "timespan_seconds": 535
+      }
+    ]
+  },
+  {
+    "passengers": 227,
+    "company_name": "Eplosion ",
+    "initial_location": {
+      "latitude": 35,
+      "longitude": 109,
+      "date_time": "2018-05-09T06:23:38Z"
+    },
+    "segments": [
+      {
+        "longitude": 149,
+        "latitude": 74,
+        "timespan_seconds": 896
+      },
+      {
+        "longitude": 144,
+        "latitude": 64,
+        "timespan_seconds": 647
+      },
+      {
+        "longitude": 15,
+        "latitude": 73,
+        "timespan_seconds": 814
+      },
+      {
+        "longitude": 28,
+        "latitude": 83,
+        "timespan_seconds": 485
+      }
+    ]
+  },
+  {
+    "passengers": 187,
+    "company_name": "Exostream Air",
+    "initial_location": {
+      "latitude": 10,
+      "longitude": 129,
+      "date_time": "2019-11-14T10:15:55Z"
+    },
+    "segments": [
+      {
+        "longitude": 91,
+        "latitude": 81,
+        "timespan_seconds": 607
+      },
+      {
+        "longitude": 127,
+        "latitude": 22,
+        "timespan_seconds": 579
+      }
+    ]
+  },
+  {
+    "passengers": 166,
+    "company_name": "Farmex Airlines",
+    "initial_location": {
+      "latitude": 43,
+      "longitude": 71,
+      "date_time": "2019-07-31T01:45:31Z"
+    },
+    "segments": [
+      {
+        "longitude": 99,
+        "latitude": 86,
+        "timespan_seconds": 380
+      },
+      {
+        "longitude": 138,
+        "latitude": 6,
+        "timespan_seconds": 186
+      }
+    ]
+  },
+  {
+    "passengers": 192,
+    "company_name": "Zaya Air",
+    "initial_location": {
+      "latitude": 41,
+      "longitude": 149,
+      "date_time": "2020-01-22T08:42:03Z"
+    },
+    "segments": [
+      {
+        "longitude": 165,
+        "latitude": 86,
+        "timespan_seconds": 611
+      },
+      {
+        "longitude": 168,
+        "latitude": 9,
+        "timespan_seconds": 413
+      },
+      {
+        "longitude": 27,
+        "latitude": 4,
+        "timespan_seconds": 736
+      }
+    ]
+  },
+  {
+    "passengers": 179,
+    "company_name": "Mazuda Airlines",
+    "initial_location": {
+      "latitude": 82,
+      "longitude": 135,
+      "date_time": "2020-04-04T09:01:09Z"
+    },
+    "segments": [
+      {
+        "longitude": 139,
+        "latitude": 15,
+        "timespan_seconds": 792
+      },
+      {
+        "longitude": 157,
+        "latitude": 41,
+        "timespan_seconds": 627
+      },
+      {
+        "longitude": 98,
+        "latitude": 56,
+        "timespan_seconds": 527
+      },
+      {
+        "longitude": 173,
+        "latitude": 69,
+        "timespan_seconds": 850
+      }
+    ]
+  },
+  {
+    "passengers": 138,
+    "company_name": "Medesign Fly",
+    "initial_location": {
+      "latitude": 61,
+      "longitude": 166,
+      "date_time": "2019-02-25T18:31:35Z"
+    },
+    "segments": [
+      {
+        "longitude": 6,
+        "latitude": 74,
+        "timespan_seconds": 602
+      },
+      {
+        "longitude": 95,
+        "latitude": 48,
+        "timespan_seconds": 130
+      },
+      {
+        "longitude": 141,
+        "latitude": 31,
+        "timespan_seconds": 451
+      },
+      {
+        "longitude": 9,
+        "latitude": 80,
+        "timespan_seconds": 871
+      }
+    ]
+  },
+  {
+    "passengers": 243,
+    "company_name": "Eweville Airlines",
+    "initial_location": {
+      "latitude": 11,
+      "longitude": 34,
+      "date_time": "2018-08-10T17:56:43Z"
+    },
+    "segments": [
+      {
+        "longitude": 51,
+        "latitude": 52,
+        "timespan_seconds": 784
+      },
+      {
+        "longitude": 148,
+        "latitude": 36,
+        "timespan_seconds": 71
+      },
+      {
+        "longitude": 141,
+        "latitude": 41,
+        "timespan_seconds": 176
+      },
+      {
+        "longitude": 27,
+        "latitude": 1,
+        "timespan_seconds": 353
+      }
+    ]
+  },
+  {
+    "passengers": 195,
+    "company_name": "Temorak Air",
+    "initial_location": {
+      "latitude": 20,
+      "longitude": 108,
+      "date_time": "2018-09-02T20:37:50Z"
+    },
+    "segments": [
+      {
+        "longitude": 9,
+        "latitude": 17,
+        "timespan_seconds": 454
+      },
+      {
+        "longitude": 54,
+        "latitude": 26,
+        "timespan_seconds": 672
+      }
+    ]
+  },
+  {
+    "passengers": 268,
+    "company_name": "Plasmosis Airways",
+    "initial_location": {
+      "latitude": 20,
+      "longitude": 47,
+      "date_time": "2020-05-16T01:20:50Z"
+    },
+    "segments": [
+      {
+        "longitude": 75,
+        "latitude": 81,
+        "timespan_seconds": 461
+      },
+      {
+        "longitude": 158,
+        "latitude": 41,
+        "timespan_seconds": 674
+      }
+    ]
+  },
+  {
+    "passengers": 334,
+    "company_name": "Exoblue Airlines",
+    "initial_location": {
+      "latitude": 83,
+      "longitude": 148,
+      "date_time": "2019-07-13T20:12:25Z"
+    },
+    "segments": [
+      {
+        "longitude": 18,
+        "latitude": 58,
+        "timespan_seconds": 251
+      },
+      {
+        "longitude": 133,
+        "latitude": 54,
+        "timespan_seconds": 756
+      },
+      {
+        "longitude": 155,
+        "latitude": 3,
+        "timespan_seconds": 52
+      }
+    ]
+  },
+  {
+    "passengers": 271,
+    "company_name": "Zentix Airlines",
+    "initial_location": {
+      "latitude": 14,
+      "longitude": 136,
+      "date_time": "2018-01-03T11:48:38Z"
+    },
+    "segments": [
+      {
+        "longitude": 83,
+        "latitude": 25,
+        "timespan_seconds": 833
+      },
+      {
+        "longitude": 44,
+        "latitude": 21,
+        "timespan_seconds": 923
+      },
+      {
+        "longitude": 164,
+        "latitude": 60,
+        "timespan_seconds": 873
+      },
+      {
+        "longitude": 104,
+        "latitude": 18,
+        "timespan_seconds": 961
+      }
+    ]
+  },
+  {
+    "passengers": 56,
+    "company_name": "Insuresys Airways",
+    "initial_location": {
+      "latitude": 58,
+      "longitude": 140,
+      "date_time": "2018-07-19T01:55:19Z"
+    },
+    "segments": [
+      {
+        "longitude": 40,
+        "latitude": 54,
+        "timespan_seconds": 217
+      },
+      {
+        "longitude": 26,
+        "latitude": 59,
+        "timespan_seconds": 575
+      },
+      {
+        "longitude": 69,
+        "latitude": 26,
+        "timespan_seconds": 152
+      },
+      {
+        "longitude": 115,
+        "latitude": 74,
+        "timespan_seconds": 350
+      }
+    ]
+  },
+  {
+    "passengers": 48,
+    "company_name": "Savvy Air",
+    "initial_location": {
+      "latitude": 2,
+      "longitude": 169,
+      "date_time": "2019-02-27T00:06:52Z"
+    },
+    "segments": [
+      {
+        "longitude": 105,
+        "latitude": 57,
+        "timespan_seconds": 979
+      },
+      {
+        "longitude": 101,
+        "latitude": 35,
+        "timespan_seconds": 361
+      },
+      {
+        "longitude": 52,
+        "latitude": 70,
+        "timespan_seconds": 680
+      }
+    ]
+  },
+  {
+    "passengers": 222,
+    "company_name": "Daisu Airways",
+    "initial_location": {
+      "latitude": 32,
+      "longitude": 26,
+      "date_time": "2020-04-14T15:09:46Z"
+    },
+    "segments": [
+      {
+        "longitude": 6,
+        "latitude": 28,
+        "timespan_seconds": 1000
+      },
+      {
+        "longitude": 27,
+        "latitude": 44,
+        "timespan_seconds": 656
+      },
+      {
+        "longitude": 112,
+        "latitude": 32,
+        "timespan_seconds": 397
+      },
+      {
+        "longitude": 129,
+        "latitude": 80,
+        "timespan_seconds": 599
+      }
+    ]
+  },
+  {
+    "passengers": 115,
+    "company_name": "Lyria Air",
+    "initial_location": {
+      "latitude": 56,
+      "longitude": 15,
+      "date_time": "2018-10-13T21:55:12Z"
+    },
+    "segments": [
+      {
+        "longitude": 32,
+        "latitude": 47,
+        "timespan_seconds": 781
+      },
+      {
+        "longitude": 0,
+        "latitude": 59,
+        "timespan_seconds": 768
+      }
+    ]
+  },
+  {
+    "passengers": 337,
+    "company_name": "Austex ",
+    "initial_location": {
+      "latitude": 50,
+      "longitude": 169,
+      "date_time": "2020-05-06T02:36:07Z"
+    },
+    "segments": [
+      {
+        "longitude": 163,
+        "latitude": 72,
+        "timespan_seconds": 998
+      },
+      {
+        "longitude": 55,
+        "latitude": 21,
+        "timespan_seconds": 743
+      }
+    ]
+  },
+  {
+    "passengers": 182,
+    "company_name": "Obliq Fly",
+    "initial_location": {
+      "latitude": 81,
+      "longitude": 135,
+      "date_time": "2019-03-02T12:23:53Z"
+    },
+    "segments": [
+      {
+        "longitude": 129,
+        "latitude": 75,
+        "timespan_seconds": 842
+      },
+      {
+        "longitude": 70,
+        "latitude": 19,
+        "timespan_seconds": 943
+      },
+      {
+        "longitude": 86,
+        "latitude": 51,
+        "timespan_seconds": 511
+      },
+      {
+        "longitude": 69,
+        "latitude": 75,
+        "timespan_seconds": 928
+      }
+    ]
+  },
+  {
+    "passengers": 100,
+    "company_name": "Zinca Airways",
+    "initial_location": {
+      "latitude": 11,
+      "longitude": 162,
+      "date_time": "2019-08-05T11:54:12Z"
+    },
+    "segments": [
+      {
+        "longitude": 124,
+        "latitude": 16,
+        "timespan_seconds": 471
+      },
+      {
+        "longitude": 96,
+        "latitude": 62,
+        "timespan_seconds": 800
+      }
+    ]
+  },
+  {
+    "passengers": 378,
+    "company_name": "Mediot Airways",
+    "initial_location": {
+      "latitude": 31,
+      "longitude": 114,
+      "date_time": "2020-03-21T13:50:15Z"
+    },
+    "segments": [
+      {
+        "longitude": 155,
+        "latitude": 17,
+        "timespan_seconds": 996
+      },
+      {
+        "longitude": 0,
+        "latitude": 73,
+        "timespan_seconds": 922
+      }
+    ]
+  },
+  {
+    "passengers": 226,
+    "company_name": "Digitalus ",
+    "initial_location": {
+      "latitude": 6,
+      "longitude": 6,
+      "date_time": "2019-05-03T06:38:26Z"
+    },
+    "segments": [
+      {
+        "longitude": 114,
+        "latitude": 3,
+        "timespan_seconds": 995
+      },
+      {
+        "longitude": 16,
+        "latitude": 12,
+        "timespan_seconds": 376
+      }
+    ]
+  },
+  {
+    "passengers": 182,
+    "company_name": "Shadease Air",
+    "initial_location": {
+      "latitude": 9,
+      "longitude": 168,
+      "date_time": "2018-06-29T05:37:43Z"
+    },
+    "segments": [
+      {
+        "longitude": 149,
+        "latitude": 35,
+        "timespan_seconds": 382
+      },
+      {
+        "longitude": 72,
+        "latitude": 80,
+        "timespan_seconds": 259
+      },
+      {
+        "longitude": 66,
+        "latitude": 20,
+        "timespan_seconds": 253
+      }
+    ]
+  },
+  {
+    "passengers": 171,
+    "company_name": "Deminimum ",
+    "initial_location": {
+      "latitude": 45,
+      "longitude": 179,
+      "date_time": "2019-03-11T21:30:52Z"
+    },
+    "segments": [
+      {
+        "longitude": 90,
+        "latitude": 33,
+        "timespan_seconds": 509
+      },
+      {
+        "longitude": 162,
+        "latitude": 79,
+        "timespan_seconds": 760
+      },
+      {
+        "longitude": 165,
+        "latitude": 68,
+        "timespan_seconds": 85
+      },
+      {
+        "longitude": 133,
+        "latitude": 16,
+        "timespan_seconds": 615
+      }
+    ]
+  },
+  {
+    "passengers": 274,
+    "company_name": "Zolavo Air",
+    "initial_location": {
+      "latitude": 71,
+      "longitude": 44,
+      "date_time": "2019-01-15T17:08:13Z"
+    },
+    "segments": [
+      {
+        "longitude": 11,
+        "latitude": 50,
+        "timespan_seconds": 978
+      },
+      {
+        "longitude": 105,
+        "latitude": 33,
+        "timespan_seconds": 589
+      }
+    ]
+  },
+  {
+    "passengers": 309,
+    "company_name": "Pyramax Airways",
+    "initial_location": {
+      "latitude": 15,
+      "longitude": 99,
+      "date_time": "2018-11-09T07:23:41Z"
+    },
+    "segments": [
+      {
+        "longitude": 172,
+        "latitude": 59,
+        "timespan_seconds": 96
+      },
+      {
+        "longitude": 92,
+        "latitude": 27,
+        "timespan_seconds": 191
+      },
+      {
+        "longitude": 120,
+        "latitude": 6,
+        "timespan_seconds": 447
+      },
+      {
+        "longitude": 126,
+        "latitude": 78,
+        "timespan_seconds": 282
+      }
+    ]
+  },
+  {
+    "passengers": 228,
+    "company_name": "Bizmatic Airlines",
+    "initial_location": {
+      "latitude": 22,
+      "longitude": 121,
+      "date_time": "2018-01-05T03:33:49Z"
+    },
+    "segments": [
+      {
+        "longitude": 160,
+        "latitude": 36,
+        "timespan_seconds": 166
+      },
+      {
+        "longitude": 71,
+        "latitude": 3,
+        "timespan_seconds": 436
+      },
+      {
+        "longitude": 161,
+        "latitude": 32,
+        "timespan_seconds": 73
+      }
+    ]
+  },
+  {
+    "passengers": 323,
+    "company_name": "Zenthall Airways",
+    "initial_location": {
+      "latitude": 73,
+      "longitude": 68,
+      "date_time": "2018-02-20T10:07:35Z"
+    },
+    "segments": [
+      {
+        "longitude": 109,
+        "latitude": 42,
+        "timespan_seconds": 821
+      },
+      {
+        "longitude": 79,
+        "latitude": 67,
+        "timespan_seconds": 290
+      },
+      {
+        "longitude": 153,
+        "latitude": 67,
+        "timespan_seconds": 509
+      },
+      {
+        "longitude": 22,
+        "latitude": 0,
+        "timespan_seconds": 269
+      }
+    ]
+  },
+  {
+    "passengers": 63,
+    "company_name": "Helixo Airways",
+    "initial_location": {
+      "latitude": 50,
+      "longitude": 145,
+      "date_time": "2018-01-11T03:35:48Z"
+    },
+    "segments": [
+      {
+        "longitude": 10,
+        "latitude": 26,
+        "timespan_seconds": 574
+      },
+      {
+        "longitude": 29,
+        "latitude": 20,
+        "timespan_seconds": 262
+      }
+    ]
+  },
+  {
+    "passengers": 126,
+    "company_name": "Virxo ",
+    "initial_location": {
+      "latitude": 59,
+      "longitude": 75,
+      "date_time": "2019-09-06T23:05:37Z"
+    },
+    "segments": [
+      {
+        "longitude": 162,
+        "latitude": 62,
+        "timespan_seconds": 329
+      },
+      {
+        "longitude": 5,
+        "latitude": 58,
+        "timespan_seconds": 703
+      }
+    ]
+  },
+  {
+    "passengers": 200,
+    "company_name": "Zillactic Fly",
+    "initial_location": {
+      "latitude": 11,
+      "longitude": 173,
+      "date_time": "2019-01-28T19:09:52Z"
+    },
+    "segments": [
+      {
+        "longitude": 22,
+        "latitude": 44,
+        "timespan_seconds": 436
+      },
+      {
+        "longitude": 95,
+        "latitude": 60,
+        "timespan_seconds": 240
+      },
+      {
+        "longitude": 136,
+        "latitude": 40,
+        "timespan_seconds": 306
+      }
+    ]
+  },
+  {
+    "passengers": 148,
+    "company_name": "Silodyne ",
+    "initial_location": {
+      "latitude": 90,
+      "longitude": 112,
+      "date_time": "2018-04-09T07:51:36Z"
+    },
+    "segments": [
+      {
+        "longitude": 31,
+        "latitude": 43,
+        "timespan_seconds": 76
+      },
+      {
+        "longitude": 161,
+        "latitude": 64,
+        "timespan_seconds": 532
+      },
+      {
+        "longitude": 100,
+        "latitude": 24,
+        "timespan_seconds": 180
+      }
+    ]
+  },
+  {
+    "passengers": 137,
+    "company_name": "Signity Airways",
+    "initial_location": {
+      "latitude": 5,
+      "longitude": 84,
+      "date_time": "2018-09-18T05:16:24Z"
+    },
+    "segments": [
+      {
+        "longitude": 157,
+        "latitude": 78,
+        "timespan_seconds": 819
+      },
+      {
+        "longitude": 76,
+        "latitude": 40,
+        "timespan_seconds": 557
+      },
+      {
+        "longitude": 35,
+        "latitude": 47,
+        "timespan_seconds": 67
+      },
+      {
+        "longitude": 132,
+        "latitude": 47,
+        "timespan_seconds": 127
+      }
+    ]
+  },
+  {
+    "passengers": 292,
+    "company_name": "Lexicondo Fly",
+    "initial_location": {
+      "latitude": 48,
+      "longitude": 108,
+      "date_time": "2019-05-08T08:51:58Z"
+    },
+    "segments": [
+      {
+        "longitude": 154,
+        "latitude": 69,
+        "timespan_seconds": 209
+      },
+      {
+        "longitude": 31,
+        "latitude": 53,
+        "timespan_seconds": 86
+      }
+    ]
+  },
+  {
+    "passengers": 179,
+    "company_name": "Combot Fly",
+    "initial_location": {
+      "latitude": 81,
+      "longitude": 20,
+      "date_time": "2019-01-11T13:12:38Z"
+    },
+    "segments": [
+      {
+        "longitude": 180,
+        "latitude": 13,
+        "timespan_seconds": 411
+      },
+      {
+        "longitude": 69,
+        "latitude": 41,
+        "timespan_seconds": 525
+      },
+      {
+        "longitude": 18,
+        "latitude": 59,
+        "timespan_seconds": 992
+      },
+      {
+        "longitude": 36,
+        "latitude": 31,
+        "timespan_seconds": 295
+      }
+    ]
+  },
+  {
+    "passengers": 306,
+    "company_name": "Supportal Airways",
+    "initial_location": {
+      "latitude": 38,
+      "longitude": 72,
+      "date_time": "2019-01-02T18:45:17Z"
+    },
+    "segments": [
+      {
+        "longitude": 38,
+        "latitude": 84,
+        "timespan_seconds": 120
+      },
+      {
+        "longitude": 16,
+        "latitude": 59,
+        "timespan_seconds": 980
+      },
+      {
+        "longitude": 55,
+        "latitude": 27,
+        "timespan_seconds": 452
+      },
+      {
+        "longitude": 115,
+        "latitude": 52,
+        "timespan_seconds": 792
+      }
+    ]
+  },
+  {
+    "passengers": 47,
+    "company_name": "Plasmos Fly",
+    "initial_location": {
+      "latitude": 75,
+      "longitude": 96,
+      "date_time": "2018-09-24T04:26:19Z"
+    },
+    "segments": [
+      {
+        "longitude": 173,
+        "latitude": 27,
+        "timespan_seconds": 158
+      },
+      {
+        "longitude": 41,
+        "latitude": 58,
+        "timespan_seconds": 237
+      },
+      {
+        "longitude": 93,
+        "latitude": 47,
+        "timespan_seconds": 351
+      }
+    ]
+  },
+  {
+    "passengers": 376,
+    "company_name": "Corporana Air",
+    "initial_location": {
+      "latitude": 75,
+      "longitude": 10,
+      "date_time": "2019-04-13T12:37:46Z"
+    },
+    "segments": [
+      {
+        "longitude": 117,
+        "latitude": 52,
+        "timespan_seconds": 484
+      },
+      {
+        "longitude": 5,
+        "latitude": 34,
+        "timespan_seconds": 250
+      },
+      {
+        "longitude": 63,
+        "latitude": 57,
+        "timespan_seconds": 905
+      }
+    ]
+  }
+]
