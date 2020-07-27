@@ -11,7 +11,9 @@ so it's get a plane icon on the current location on the map,
 which update every few seconds.
 
 
-works on .net framework 
+works on ASP.net framework.
+The scripts are writen in java script.
+the Server is an RESTful API Server, implemented in C#.
 
 
 For running the project first you need to put an API key inside the html "FlightControl/wwwroot/homepage1", 
