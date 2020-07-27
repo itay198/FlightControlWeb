@@ -1,8 +1,5 @@
 # FlightControlWeb   
 
-
-![ווב תמונה](https://user-images.githubusercontent.com/48644222/88546713-73991100-d025-11ea-91b7-9c0d9043e571.png)
-
 WEB aplication for flight simulator.
 The client can load flight plans in a json file (drag and drop).																																																						
 and the flight gets to the flights list,																					
@@ -18,3 +15,6 @@ the Server is an RESTful API Server, implemented in C#.
 
 For running the project first you need to put an API key inside the html "FlightControl/wwwroot/homepage1", 
 you need to replace it with the string "API_KEY".
+
+![ווב תמונה](https://user-images.githubusercontent.com/48644222/88546713-73991100-d025-11ea-91b7-9c0d9043e571.png)
+
